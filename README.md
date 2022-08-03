@@ -1,4 +1,4 @@
-# Tasks-List-Web-Application
+# Tasks-Manager-Web-App
 
 This a basic Web Application for adding, deleting, and editing tasks to be displayed in a table.
 
